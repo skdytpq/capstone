@@ -2,7 +2,7 @@
 
 - ContrastVAE : 트랜스포머 구조의 VAE!
 - <p align = "center">
-  <img width = "500" src = "https://github.com/skdytpq/capstone/exp/contrast1?raw=True">
+  <img width = "500" src = "https://github.com/skdytpq/capstone/blob/main/exp/Contrast1.png?raw=True">
   <br>
   그림 
 </p>
@@ -28,7 +28,7 @@
 - Slime4rec : 1D kernel Module 
 
 - <p align = "center">
-  <img width = "500" src = "https://github.com/skdytpq/capstone/exp/contrast2?raw=True">
+  <img width = "500" src = "https://github.com/skdytpq/capstone/blob/main/exp/Contrast2.png?raw=True">
   <br>
   그림 
 </p>
