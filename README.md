@@ -1,7 +1,11 @@
 ## Keypaper 
 
-- ContrastVAE : 트랜스포머 구조의 VAE![스크린샷 2023-05-15 오전 9.32.20](/Users/josephna/Desktop/capture/스크린샷 2023-05-15 오전 9.32.20.png)
-
+- ContrastVAE : 트랜스포머 구조의 VAE!
+- <p align = "center">
+  <img width = "500" src = "https://github.com/skdytpq/capstone/exp/contrast1?raw=True">
+  <br>
+  그림 
+</p>
 인코더 디코더 구조에서 Transformer를 사용할 경우 Latent Space 의 표현이 제대로 되지 않음.
 
 ### Posterior Collapse
@@ -23,8 +27,11 @@
 
 - Slime4rec : 1D kernel Module 
 
-![스크린샷 2023-05-15 오전 9.41.04](/Users/josephna/Desktop/capture/스크린샷 2023-05-15 오전 9.41.04.png)
-
+- <p align = "center">
+  <img width = "500" src = "https://github.com/skdytpq/capstone/exp/contrast2?raw=True">
+  <br>
+  그림 
+</p>
 인코더 구조에서 임베딩 레이어를 거친 후 Dynamic, Static Module 을 각 통과하여 시퀀스 데이터의 Local 정보를 학습
 
 Dynamic Slide 의 경우 filter size 가 유동적, Static slide 의 경우 정적으로 학습 진행. 
